@@ -20,6 +20,7 @@ h2{
   color: white;
 }
 div{
-  padding: 50px 0;
+  padding: 50px 10%;
+  background-color: black;
 }
 </style>

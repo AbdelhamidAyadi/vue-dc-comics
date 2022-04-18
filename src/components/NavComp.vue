@@ -72,6 +72,9 @@ li{
     color: rgb(70, 70, 70);
     font-weight: bold;
     font-size: 0.8rem;
+    &:hover{
+      color: #0282f9;
+    }
 
   }
 }

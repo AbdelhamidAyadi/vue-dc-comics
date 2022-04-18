@@ -13,16 +13,11 @@ export default {
 
 
 <style scoped lang="scss">
-
-  div{
+div{
+  height: 100%;
+  padding: 10px 0;
+  img{
     height: 100%;
-    display: flex;
-    align-items: center;
-    
-    img{
-    height: 80%;
-    
   }
-  }
-
+}
 </style>
