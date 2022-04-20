@@ -38,7 +38,7 @@ export default {
         {
         name:'DC POWER VISA',
         url:'/dc_power_visa',
-        img:'buy-comics-shop-locator.png'
+        img:'buy-dc-power-visa.svg'
         },
         
       ]
